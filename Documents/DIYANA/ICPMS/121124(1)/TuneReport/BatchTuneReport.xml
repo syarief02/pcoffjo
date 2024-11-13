@@ -1,0 +1,1770 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TuneReportDataSet SchemaVersion="65537" DataVersion="3" SIVersion="D.1.2.708.1" AuditTrail="false" BatchName="121124(1).b" BatchDataPath="D:\Agilent\ICPMH\1\DATA\2024\121124(1).b" QCDataPath="" HashCode="C5F4B43286BDF97834B543E6E75557DF2087A4AB6DBA58411CB8FAA878F1C59E2E2DED7E93983182C09D0F495F032B17A399D9AA263472A77E2CAE940B834E3A" xmlns="TuneReport">
+  <TuneReport>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <Version>100</Version>
+    <AcqOperatorName>ICPMS QQQ 8900</AcqOperatorName>
+    <Created>2024-11-12T14:45:04.2754732+08:00</Created>
+    <TuneMode>He</TuneMode>
+    <NebulizerType>MicroMist</NebulizerType>
+    <TorchType>TwoAndHalfMM</TorchType>
+    <CheckOut>false</CheckOut>
+    <ModelName>G3665A</ModelName>
+    <SerialNumber>SG23363340</SerialNumber>
+    <TuneReportNumber>0</TuneReportNumber>
+    <TuneStepNumber>1</TuneStepNumber>
+    <ReportComment />
+    <LensesModel>XLens</LensesModel>
+    <SampleIntroType>ISIS</SampleIntroType>
+  </TuneReport>
+  <TuneReport>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <Version>100</Version>
+    <AcqOperatorName>ICPMS QQQ 8900</AcqOperatorName>
+    <Created>2024-11-12T15:00:11.4605764+08:00</Created>
+    <TuneMode>He</TuneMode>
+    <NebulizerType>MicroMist</NebulizerType>
+    <TorchType>TwoAndHalfMM</TorchType>
+    <CheckOut>false</CheckOut>
+    <ModelName>G3665A</ModelName>
+    <SerialNumber>SG23363340</SerialNumber>
+    <TuneReportNumber>1</TuneReportNumber>
+    <TuneStepNumber>1</TuneStepNumber>
+    <ReportComment />
+    <LensesModel>XLens</LensesModel>
+    <SampleIntroType>ISIS</SampleIntroType>
+  </TuneReport>
+  <TuneReport>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <Version>100</Version>
+    <AcqOperatorName>ICPMS QQQ 8900</AcqOperatorName>
+    <Created>2024-11-12T15:11:43.4807515+08:00</Created>
+    <TuneMode>He</TuneMode>
+    <NebulizerType>MicroMist</NebulizerType>
+    <TorchType>TwoAndHalfMM</TorchType>
+    <CheckOut>false</CheckOut>
+    <ModelName>G3665A</ModelName>
+    <SerialNumber>SG23363340</SerialNumber>
+    <TuneReportNumber>2</TuneReportNumber>
+    <TuneStepNumber>1</TuneStepNumber>
+    <ReportComment />
+    <LensesModel>XLens</LensesModel>
+    <SampleIntroType>ISIS</SampleIntroType>
+  </TuneReport>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneItemType>Sensitivity</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.31000000000000005</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneItemType>Oxide</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20400000000000001</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneItemType>DoublyCharged</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20600000000000002</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneItemType>Sensitivity</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.31000000000000005</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneItemType>Oxide</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20400000000000001</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneItemType>DoublyCharged</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20600000000000002</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneItemType>Sensitivity</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.31000000000000005</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneItemType>Oxide</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20400000000000001</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneReportItem>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneItemType>DoublyCharged</TuneItemType>
+    <IntegTime>0.1</IntegTime>
+    <SamplingPeriod>0.20600000000000002</SamplingPeriod>
+    <ScanType>SingleQuad</ScanType>
+    <PeakProfile>QSProfile</PeakProfile>
+  </TuneReportItem>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>59</MZ>
+    <Count>716.66768310546877</Count>
+    <Rsd>6.65951003125695</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>7166.6768310546877</Cps>
+    <SampleConc>1</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAAYKNJhkAAAACA7zmIQAAAAEDuMYhAAAAAQODZh0AAAABA1pmHQAAAAGC76YZAAAAAQLXBhkAAAABgnBmGQAAAAMDIQYdAAAAAIKhphkAAAAAAp2GGQAAAAECpcYZAAAAA4LjZhkAAAAAgqGmGQAAAAECbEYZAAAAAAIJhhUAAAADAkMmFQAAAAEDbuYdAAAAAIKE5hkAAAABAr5mGQAAAACBv2YRAAAAAYIV5hUAAAABA27mHQAAAAIDSgYdAAAAAIKhphkAAAABAwRGHQAAAAMCQyYVAAAAAIN/Rh0AAAAAAp2GGQAAAAKCPwYVAAAAAIJPZhUAAAABgo0mGQAAAAECU4YVAAAAAoJ0hhkAAAACg4eGHQAAAAKCdIYZAAAAAYHw5hUAAAACA16GHQAAAAODnCYhAAAAAQMERh0AAAABglemFQAAAAMC9+YZAAAAAwJf5hUAAAACgpFGGQAAAAMBLYopAAAAAAMUph0AAAADgUPmDQAAAAAAloYJAAAAAQAixgUAAAABAHWGCQBE=</ConvertedYValues>
+    <ResponseCheckPass>false</ResponseCheckPass>
+    <ResponseCheckMin>30000</ResponseCheckMin>
+    <RsdCheckPass>true</RsdCheckPass>
+    <RsdCheckMax>10</RsdCheckMax>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>1</TuneElementID>
+    <MZ>89</MZ>
+    <Count>744.74802001953128</Count>
+    <Rsd>6.2745860993871565</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>7447.4802001953121</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAAoPpJiEAAAABA1FmHQAAAAGC6sYZAAAAAQM85h0AAAADg8hmIQAAAAAD4OYhAAAAAgNqBh0AAAADA0UmHQAAAAGDF+YZAAAAAIN2Rh0AAAADg24mHQAAAAKC2mYZAAAAAYLqxhkAAAADg/2mIQAAAAADhqYdAAAAAALOBhkAAAADAC7KIQAAAAAC+yYZAAAAAYOzxh0AAAACAwNmGQAAAAICHWYVAAAAAoKpJhkAAAAAA/FGIQAAAACDOMYdAAAAAYN6Zh0AAAACAwNmGQAAAAGAW8ohAAAAA4Onhh0AAAACgxgGHQAAAAEDUWYdAAAAA4AOCiEAAAABA4rGHQAAAAIDagYdAAAAAQOKxh0AAAADgA4KIQAAAAODWaYdAAAAAINhxh0AAAADAsXmGQAAAAODWaYdAAAAAIBHSiEAAAADgxwmHQAAAAODWaYdAAAAAgCI6iUAAAABAv9GGQAAAAMCY0otAAAAAoN+hh0AAAACAVOmDQAAAAGBgQYRAAAAAACiRgkAAAABAUMmDQLg=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>2</TuneElementID>
+    <MZ>205</MZ>
+    <Count>2707.1491552734374</Count>
+    <Rsd>6.8361049418446784</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>27071.491552734373</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAA4DuBpkAAAADAbzqlQAAAACDW4KVAAAAAYG02pUAAAAAAh2ClQAAAAMDi9KVAAAAAIMfIpUAAAADAKWWmQAAAAGBcGqVAAAAAYH5SpUAAAACAKGOmQAAAAAD8HKZAAAAAIGYqpUAAAACgCDGmQAAAAEBy1aZAAAAAYHhIpUAAAABgrqClQAAAAGA1d6ZAAAAA4IBWpUAAAABgUAalQAAAACCtnqVAAAAAQAInpkAAAABgXBqlQAAAAEDLI6RAAAAAAHxOpUAAAACA/32kQAAAACCypqVAAAAAIK2epUAAAAAgjWqlQAAAAIARP6ZAAAAA4GoypUAAAADgNNikQAAAAGBcGqVAAAAAAMG+pUAAAADAaTClQAAAAECzqKVAAAAAQB5TpkAAAACAET+mQAAAAAC8tqVAAAAAwN3spUAAAAAgZiqlQAAAAIAxcaZAAAAAgJR2pUAAAADgG66kQAAAAMC/D6RAAAAAgFJNo0AAAACAOTKhQAAAAADwmaBAAAAAwON/oEAAAACANy6hQEY=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>156/140</MZ>
+    <Count>0.25954015153079474</Count>
+    <Rsd>28.467212483427229</Rsd>
+    <Cps>0.02595401515307947</Cps>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>70/140</MZ>
+    <Count>0.90145157207507509</Count>
+    <Rsd>22.130179396741926</Rsd>
+    <Cps>0.090145157207507515</Cps>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>59</MZ>
+    <Count>675.36387817382808</Count>
+    <Rsd>3.6352707986378374</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>6753.63878173828</Cps>
+    <SampleConc>1</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAA4GzJhEAAAADgYHGEQAAAAEBx6YRAAAAAQJThhUAAAABgcvGEQAAAACBw4YRAAAAAIINphUAAAACAaKmEQAAAAOBRAYRAAAAAgH1BhUAAAAAAOUGDQAAAAKB+SYVAAAAA4J8xhkAAAABgZ6GEQAAAAIBoqYRAAAAAoF1ZhEAAAABAQYGDQAAAACCoaYZAAAAA4IBZhUAAAABAVymEQAAAAMCIkYVAAAAAgI65hUAAAADApVmGQAAAAACS0YVAAAAAoGq5hEAAAAAgg2mFQAAAAKB+SYVAAAAAgFtJhEAAAAAAktGFQAAAAAB5IYVAAAAAIMAJh0AAAACAhoGFQAAAAABieYRAAAAAAGJ5hEAAAAAAeSGFQAAAAKCHiYVAAAAAQFk5hEAAAACAfUGFQAAAAAC0uYZAAAAAgH1BhUAAAACgXVmEQAAAACBw4YRAAAAAgIaBhUAAAABAlOGFQAAAAIB9QYVAAAAAAGJ5hEAAAACgXmGEQAAAAABu0YRAAAAAIIyphUAAAADAf1GFQCs=</ConvertedYValues>
+    <ResponseCheckPass>false</ResponseCheckPass>
+    <ResponseCheckMin>30000</ResponseCheckMin>
+    <RsdCheckPass>true</RsdCheckPass>
+    <RsdCheckMax>10</RsdCheckMax>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>1</TuneElementID>
+    <MZ>89</MZ>
+    <Count>736.46248046875</Count>
+    <Rsd>4.0611018535537289</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>7364.6248046874989</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAA4NuJh0AAAABAzzmHQAAAACDYcYdAAAAAoO35h0AAAADAnvmFQAAAAGD5QYhAAAAAwAeaiEAAAABAhlGFQAAAACDr6YdAAAAAQL/RhkAAAACAwNmGQAAAAIDA2YZAAAAAgHbhhEAAAADg8hmIQAAAAADTUYdAAAAAILmphkAAAACgyyGHQAAAAEC0iYZAAAAA4Mwph0AAAADA9jGIQAAAAEC/0YZAAAAAoMshh0AAAADgzCmHQAAAAODC6YZAAAAAIMkRh0AAAADgmNGFQAAAAICvaYZAAAAAIMTxhkAAAACAoxmGQAAAAODMKYdAAAAAoN+hh0AAAAAA7wGIQAAAAMCBMYVAAAAA4NuJh0AAAACgtpmGQAAAAODMKYdAAAAAQGqJhEAAAAAA01GHQAAAAKCwcYZAAAAAoKQhhkAAAAAgAXKIQAAAACDr6YdAAAAAoJfJhUAAAADg6eGHQAAAAADmyYdAAAAAwJ75hUAAAACA0EGHQAAAACDOMYdAAAAAgAqqiEAAAAAgxPGGQEA=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>2</TuneElementID>
+    <MZ>205</MZ>
+    <Count>2886.1928955078124</Count>
+    <Rsd>2.425279827193735</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>28861.928955078121</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAAgBE/pkAAAABgf+mmQAAAAMApZaZAAAAAYFSnpkAAAADAKWWmQAAAACDW4KVAAAAAoKqapUAAAABA4PClQAAAAEBPn6ZAAAAAALeupUAAAAAAHVGmQAAAAOCJ+aZAAAAAQP0epkAAAADAXremQAAAAIA6f6ZAAAAAwMTEpUAAAAAg+BamQAAAAIDc6qVAAAAAwF63pkAAAAAAZL+mQAAAACBpx6ZAAAAAIG3NpkAAAACgyVmnQAAAAMCVC6dAAAAAAEUQqEAAAACgqpqlQAAAAADQ1qVAAAAAgL1Hp0AAAADAb9GmQAAAAGD0EKZAAAAA4CVfpkAAAACAkAOnQAAAAAAvbaZAAAAAIDR1pkAAAAAgeuGmQAAAAODe7qVAAAAAQAInpkAAAACAjP2mQAAAAMDi9KVAAAAAwIDrpkAAAACg/KWnQAAAAAB+56ZAAAAAAPwcpkAAAAAAfuemQAAAAOB436ZAAAAAYPQQpkAAAABAT5+mQAAAACB64aZAAAAA4LI3p0AAAADgtj2nQJA=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>156/140</MZ>
+    <Count>0.24498393442380437</Count>
+    <Rsd>45.093540452652846</Rsd>
+    <Cps>0.024498393442380435</Cps>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>70/140</MZ>
+    <Count>0.77789930388031892</Count>
+    <Rsd>22.842358907257424</Rsd>
+    <Cps>0.077789930388031892</Cps>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>59</MZ>
+    <Count>676.44453857421877</Count>
+    <Rsd>4.1262991731086034</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>6764.4453857421877</Cps>
+    <SampleConc>1</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAA4LjZhkAAAACgpFGGQAAAACCLoYVAAAAAAG7RhEAAAABAQomDQAAAAOB3GYVAAAAAADEBg0AAAACAaKmEQAAAAGBnoYRAAAAAwLGphkAAAAAAipmFQAAAACCDaYVAAAAAoHUJhUAAAAAAUwmEQAAAAIC2yYZAAAAAIHDhhEAAAACAdAGFQAAAAKB+SYVAAAAAwH9RhUAAAACgh4mFQAAAAMB/UYVAAAAAgHQBhUAAAABAmxGGQAAAAEBx6YRAAAAAgJbxhUAAAACgj8GFQAAAAACCYYVAAAAAgFtJhEAAAABAxjGHQAAAAABVGYRAAAAAAG7RhEAAAAAgg2mFQAAAACCDaYVAAAAAQJsRhkAAAACgXmGEQAAAAGBnoYRAAAAAID5pg0AAAACgS9GDQAAAACCDaYVAAAAAgGmxhEAAAADAdhGFQAAAAEBlkYRAAAAA4GzJhEAAAADAiJGFQAAAAOCAWYVAAAAAYGaZhEAAAADApVmGQAAAACBkiYRAAAAAYGehhEAAAADggFmFQMA=</ConvertedYValues>
+    <ResponseCheckPass>false</ResponseCheckPass>
+    <ResponseCheckMin>30000</ResponseCheckMin>
+    <RsdCheckPass>true</RsdCheckPass>
+    <RsdCheckMax>10</RsdCheckMax>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>1</TuneElementID>
+    <MZ>89</MZ>
+    <Count>741.58565063476567</Count>
+    <Rsd>4.4390888263813846</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>7415.8565063476563</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAAAPg5iEAAAACAwNmGQAAAAADhqYdAAAAA4McJh0AAAADgHyqJQAAAAECb4YVAAAAAoN+hh0AAAABA2XmHQAAAAEDn0YdAAAAAgNqBh0AAAABgDsKIQAAAACDJEYdAAAAAwAeaiEAAAABA4rGHQAAAACD0IYhAAAAAoN+hh0AAAACgd+mEQAAAAAD4OYhAAAAAoPERiEAAAAAgzjGHQAAAAGAOwohAAAAAQK5hhkAAAABgxfmGQAAAAKDLIYdAAAAAoIhhhUAAAABg3pmHQAAAAMDkwYdAAAAAwKtRhkAAAACAAnqIQAAAAIDVYYdAAAAAIAmiiEAAAADgmNGFQAAAAODC6YZAAAAAQLSJhkAAAADggjmFQAAAAKDLIYdAAAAAgNqBh0AAAACA1WGHQAAAAAC+yYZAAAAAoIhhhUAAAAAAmtmFQAAAAKCAKYVAAAAAwLF5hkAAAADg1mmHQAAAAEDPOYdAAAAAgJbBhUAAAADA5MGHQAAAAID1KYhAAAAAoMYBh0AAAACgweGGQDE=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>0</ReportItemID>
+    <TuneElementID>2</TuneElementID>
+    <MZ>205</MZ>
+    <Count>2798.816650390625</Count>
+    <Rsd>2.5898145345589376</Rsd>
+    <ResponseRatio>NaN</ResponseRatio>
+    <Cps>27988.16650390625</Cps>
+    <SampleConc>NaN</SampleConc>
+    <IsReference>false</IsReference>
+    <ConvertedXValues>AAAAAAAAAAAAAAAAAADwPwAAAAAAAABAAAAAAAAACEAAAAAAAAAQQAAAAAAAABRAAAAAAAAAGEAAAAAAAAAcQAAAAAAAACBAAAAAAAAAIkAAAAAAAAAkQAAAAAAAACZAAAAAAAAAKEAAAAAAAAAqQAAAAAAAACxAAAAAAAAALkAAAAAAAAAwQAAAAAAAADFAAAAAAAAAMkAAAAAAAAAzQAAAAAAAADRAAAAAAAAANUAAAAAAAAA2QAAAAAAAADdAAAAAAAAAOEAAAAAAAAA5QAAAAAAAADpAAAAAAAAAO0AAAAAAAAA8QAAAAAAAAD1AAAAAAAAAPkAAAAAAAAA/QAAAAAAAAEBAAAAAAACAQEAAAAAAAABBQAAAAAAAgEFAAAAAAAAAQkAAAAAAAIBCQAAAAAAAAENAAAAAAACAQ0AAAAAAAABEQAAAAAAAgERAAAAAAAAARUAAAAAAAIBFQAAAAAAAAEZAAAAAAACARkAAAAAAAABHQAAAAAAAgEdAAAAAAAAASEAAAAAAAIBIQIc=</ConvertedXValues>
+    <ConvertedYValues>AAAAAA87pkAAAACgr6KlQAAAAGAsyqRAAAAAgAw3pkAAAACAOn+mQAAAACA9g6ZAAAAAoD+HpkAAAACgmoClQAAAAIDm+qVAAAAAoFWppkAAAACAtTunQAAAACBTpaZAAAAAIBlLpkAAAACAtKqlQAAAAODe7qVAAAAAQGcspUAAAABg1+KlQAAAAMDd7KVAAAAAgL66pUAAAABA5filQAAAAOAoxKRAAAAAgJR2pUAAAAAAWhalQAAAAIDN0qVAAAAAQJN0pUAAAADAkHClQAAAAIBRCKVAAAAAoK+ipUAAAACgBoqkQAAAAACijKVAAAAAINbgpUAAAAAAknKlQAAAAGDS2qVAAAAAAILtpkAAAACgztSlQAAAAGDX4qVAAAAAoAgxpkAAAAAg8w6mQAAAAGAHL6ZAAAAAoIpmpUAAAAAAknKlQAAAAOAlX6ZAAAAAQODwpUAAAACg8AqmQAAAAEDCwKVAAAAAwFGjpkAAAAAgbDSlQAAAAADp/qVAAAAAAGC5pkAAAADAurSlQM4=</ConvertedYValues>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>1</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>156/140</MZ>
+    <Count>0.21729063049557465</Count>
+    <Rsd>46.447721872394105</Rsd>
+    <Cps>0.021729063049557462</Cps>
+  </TuneElement>
+  <TuneElement>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportItemID>2</ReportItemID>
+    <TuneElementID>0</TuneElementID>
+    <MZ>70/140</MZ>
+    <Count>0.80216019698368246</Count>
+    <Rsd>24.725274705638249</Rsd>
+    <Cps>0.080216019698368252</Cps>
+  </TuneElement>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>0</TuneParamID>
+    <Name>Opt_Plasma_RFPower</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1600</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>1</TuneParamID>
+    <Name>Opt_Plasma_RFMatching</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>2</TuneParamID>
+    <Name>Opt_Plasma_SmplDepth</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>3</TuneParamID>
+    <Name>Opt_Plasma_TorchH</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.30000000000000004</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>4</TuneParamID>
+    <Name>Opt_Plasma_TorchV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>5</TuneParamID>
+    <Name>Opt_Plasma_CarrierGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.75</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>6</TuneParamID>
+    <Name>Opt_Plasma_OptionalGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>7</TuneParamID>
+    <Name>Opt_Plasma_NebulizerPump</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>8</TuneParamID>
+    <Name>Opt_Plasma_SCTemp</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>9</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>10</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionSwitch</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">DilutionGas</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>11</TuneParamID>
+    <Name>Opt_Plasma_PlasmaGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>12</TuneParamID>
+    <Name>Opt_Plasma_AuxiliaryGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>13</TuneParamID>
+    <Name>Opt_Lens_Extract1</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>14</TuneParamID>
+    <Name>Opt_Lens_Extract2</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-165</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>15</TuneParamID>
+    <Name>Opt_Lens_OmegaBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-85</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>16</TuneParamID>
+    <Name>Opt_Lens_OmegaLens</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">7.6000000000000005</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>17</TuneParamID>
+    <Name>Opt_Lens_CellEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>18</TuneParamID>
+    <Name>Opt_Lens_CellExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>19</TuneParamID>
+    <Name>Opt_Lens_Deflect</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-5.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>20</TuneParamID>
+    <Name>Opt_Lens_PlateBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>21</TuneParamID>
+    <Name>Opt_Lens_QFEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>22</TuneParamID>
+    <Name>Opt_Lens_QFExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>23</TuneParamID>
+    <Name>Opt_Lens_CellFocus</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>24</TuneParamID>
+    <Name>Opt_Cell_OctPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-18</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>25</TuneParamID>
+    <Name>Opt_Cell_OctPRF</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">180</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>26</TuneParamID>
+    <Name>Opt_Cell_UseGas</Name>
+    <Value xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">true</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>27</TuneParamID>
+    <Name>Opt_Cell_HeFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>28</TuneParamID>
+    <Name>Opt_Cell_H2Flow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>29</TuneParamID>
+    <Name>Opt_Cell_OptionFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>30</TuneParamID>
+    <Name>Opt_Cell_EnergyDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>31</TuneParamID>
+    <Name>Opt_Cell_QPDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>32</TuneParamID>
+    <Name>Opt_Cell_4thGasFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>33</TuneParamID>
+    <Name>Opt_Cell_AxialFieldVoltage</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>34</TuneParamID>
+    <Name>Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>35</TuneParamID>
+    <Name>Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-6.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>36</TuneParamID>
+    <Name>Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>37</TuneParamID>
+    <Name>Opt_QF_WaitTimeOffset</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>38</TuneParamID>
+    <Name>Opt_QF_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>39</TuneParamID>
+    <Name>Opt_QF_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>40</TuneParamID>
+    <Name>Opt_QS_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>41</TuneParamID>
+    <Name>Opt_QS_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>42</TuneParamID>
+    <Name>Opt_EMDiscriminator</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2.7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>43</TuneParamID>
+    <Name>Opt_AnalogHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2189</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>44</TuneParamID>
+    <Name>Opt_PulseHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1169</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>45</TuneParamID>
+    <Name>Opt_Cell_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">125</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>46</TuneParamID>
+    <Name>Opt_Cell_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>47</TuneParamID>
+    <Name>Opt_Cell_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9996</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>48</TuneParamID>
+    <Name>Opt_Cell_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.05</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>49</TuneParamID>
+    <Name>Opt_QF_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>50</TuneParamID>
+    <Name>Opt_QF_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>51</TuneParamID>
+    <Name>Opt_QF_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.0001</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>52</TuneParamID>
+    <Name>Opt_QF_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-0.06</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>53</TuneParamID>
+    <Name>Opt_Cell_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>54</TuneParamID>
+    <Name>IonGuideMode</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>55</TuneParamID>
+    <Name>SingleQuad_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>56</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-6.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>57</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>58</TuneParamID>
+    <Name>MSMS_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>59</TuneParamID>
+    <Name>MSMS_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-5.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>60</TuneParamID>
+    <Name>MSMS_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <TuneParamID>61</TuneParamID>
+    <Name>ScanType_Tune</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">SingleQuad</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>0</TuneParamID>
+    <Name>Opt_Plasma_RFPower</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1600</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>1</TuneParamID>
+    <Name>Opt_Plasma_RFMatching</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>2</TuneParamID>
+    <Name>Opt_Plasma_SmplDepth</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>3</TuneParamID>
+    <Name>Opt_Plasma_TorchH</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.30000000000000004</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>4</TuneParamID>
+    <Name>Opt_Plasma_TorchV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>5</TuneParamID>
+    <Name>Opt_Plasma_CarrierGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.75</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>6</TuneParamID>
+    <Name>Opt_Plasma_OptionalGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>7</TuneParamID>
+    <Name>Opt_Plasma_NebulizerPump</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>8</TuneParamID>
+    <Name>Opt_Plasma_SCTemp</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>9</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>10</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionSwitch</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">DilutionGas</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>11</TuneParamID>
+    <Name>Opt_Plasma_PlasmaGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>12</TuneParamID>
+    <Name>Opt_Plasma_AuxiliaryGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>13</TuneParamID>
+    <Name>Opt_Lens_Extract1</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>14</TuneParamID>
+    <Name>Opt_Lens_Extract2</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-170</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>15</TuneParamID>
+    <Name>Opt_Lens_OmegaBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-80</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>16</TuneParamID>
+    <Name>Opt_Lens_OmegaLens</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">8.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>17</TuneParamID>
+    <Name>Opt_Lens_CellEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>18</TuneParamID>
+    <Name>Opt_Lens_CellExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>19</TuneParamID>
+    <Name>Opt_Lens_Deflect</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-4.8000000000000007</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>20</TuneParamID>
+    <Name>Opt_Lens_PlateBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>21</TuneParamID>
+    <Name>Opt_Lens_QFEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>22</TuneParamID>
+    <Name>Opt_Lens_QFExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>23</TuneParamID>
+    <Name>Opt_Lens_CellFocus</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>24</TuneParamID>
+    <Name>Opt_Cell_OctPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-18</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>25</TuneParamID>
+    <Name>Opt_Cell_OctPRF</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">180</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>26</TuneParamID>
+    <Name>Opt_Cell_UseGas</Name>
+    <Value xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">true</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>27</TuneParamID>
+    <Name>Opt_Cell_HeFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>28</TuneParamID>
+    <Name>Opt_Cell_H2Flow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>29</TuneParamID>
+    <Name>Opt_Cell_OptionFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>30</TuneParamID>
+    <Name>Opt_Cell_EnergyDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>31</TuneParamID>
+    <Name>Opt_Cell_QPDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>32</TuneParamID>
+    <Name>Opt_Cell_4thGasFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>33</TuneParamID>
+    <Name>Opt_Cell_AxialFieldVoltage</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>34</TuneParamID>
+    <Name>Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>35</TuneParamID>
+    <Name>Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>36</TuneParamID>
+    <Name>Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>37</TuneParamID>
+    <Name>Opt_QF_WaitTimeOffset</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>38</TuneParamID>
+    <Name>Opt_QF_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>39</TuneParamID>
+    <Name>Opt_QF_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>40</TuneParamID>
+    <Name>Opt_QS_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>41</TuneParamID>
+    <Name>Opt_QS_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>42</TuneParamID>
+    <Name>Opt_EMDiscriminator</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2.7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>43</TuneParamID>
+    <Name>Opt_AnalogHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2189</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>44</TuneParamID>
+    <Name>Opt_PulseHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1169</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>45</TuneParamID>
+    <Name>Opt_Cell_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">125</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>46</TuneParamID>
+    <Name>Opt_Cell_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>47</TuneParamID>
+    <Name>Opt_Cell_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9996</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>48</TuneParamID>
+    <Name>Opt_Cell_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.05</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>49</TuneParamID>
+    <Name>Opt_QF_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>50</TuneParamID>
+    <Name>Opt_QF_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>51</TuneParamID>
+    <Name>Opt_QF_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.0001</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>52</TuneParamID>
+    <Name>Opt_QF_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-0.06</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>53</TuneParamID>
+    <Name>Opt_Cell_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>54</TuneParamID>
+    <Name>IonGuideMode</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>55</TuneParamID>
+    <Name>SingleQuad_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>56</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>57</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>58</TuneParamID>
+    <Name>MSMS_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>59</TuneParamID>
+    <Name>MSMS_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-7.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>60</TuneParamID>
+    <Name>MSMS_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <TuneParamID>61</TuneParamID>
+    <Name>ScanType_Tune</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">SingleQuad</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>0</TuneParamID>
+    <Name>Opt_Plasma_RFPower</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1600</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>1</TuneParamID>
+    <Name>Opt_Plasma_RFMatching</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>2</TuneParamID>
+    <Name>Opt_Plasma_SmplDepth</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">10</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>3</TuneParamID>
+    <Name>Opt_Plasma_TorchH</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.30000000000000004</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>4</TuneParamID>
+    <Name>Opt_Plasma_TorchV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>5</TuneParamID>
+    <Name>Opt_Plasma_CarrierGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.75</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>6</TuneParamID>
+    <Name>Opt_Plasma_OptionalGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>7</TuneParamID>
+    <Name>Opt_Plasma_NebulizerPump</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>8</TuneParamID>
+    <Name>Opt_Plasma_SCTemp</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>9</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>10</TuneParamID>
+    <Name>Opt_Plasma_MakeupDilutionSwitch</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">DilutionGas</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>11</TuneParamID>
+    <Name>Opt_Plasma_PlasmaGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>12</TuneParamID>
+    <Name>Opt_Plasma_AuxiliaryGas</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>13</TuneParamID>
+    <Name>Opt_Lens_Extract1</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>14</TuneParamID>
+    <Name>Opt_Lens_Extract2</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-165</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>15</TuneParamID>
+    <Name>Opt_Lens_OmegaBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-80</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>16</TuneParamID>
+    <Name>Opt_Lens_OmegaLens</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">8.4</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>17</TuneParamID>
+    <Name>Opt_Lens_CellEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>18</TuneParamID>
+    <Name>Opt_Lens_CellExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>19</TuneParamID>
+    <Name>Opt_Lens_Deflect</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>20</TuneParamID>
+    <Name>Opt_Lens_PlateBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-60</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>21</TuneParamID>
+    <Name>Opt_Lens_QFEntrance</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-50</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>22</TuneParamID>
+    <Name>Opt_Lens_QFExit</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>23</TuneParamID>
+    <Name>Opt_Lens_CellFocus</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>24</TuneParamID>
+    <Name>Opt_Cell_OctPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-18</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>25</TuneParamID>
+    <Name>Opt_Cell_OctPRF</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">170</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>26</TuneParamID>
+    <Name>Opt_Cell_UseGas</Name>
+    <Value xsi:type="xs:boolean" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">true</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>27</TuneParamID>
+    <Name>Opt_Cell_HeFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>28</TuneParamID>
+    <Name>Opt_Cell_H2Flow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>29</TuneParamID>
+    <Name>Opt_Cell_OptionFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>30</TuneParamID>
+    <Name>Opt_Cell_EnergyDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>31</TuneParamID>
+    <Name>Opt_Cell_QPDiscrimination</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>32</TuneParamID>
+    <Name>Opt_Cell_4thGasFlow</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>33</TuneParamID>
+    <Name>Opt_Cell_AxialFieldVoltage</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>34</TuneParamID>
+    <Name>Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>35</TuneParamID>
+    <Name>Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>36</TuneParamID>
+    <Name>Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>37</TuneParamID>
+    <Name>Opt_QF_WaitTimeOffset</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>38</TuneParamID>
+    <Name>Opt_QF_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.6</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>39</TuneParamID>
+    <Name>Opt_QF_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>40</TuneParamID>
+    <Name>Opt_QS_SLSFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>41</TuneParamID>
+    <Name>Opt_QS_SLGFactor</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>42</TuneParamID>
+    <Name>Opt_EMDiscriminator</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2.7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>43</TuneParamID>
+    <Name>Opt_AnalogHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2189</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>44</TuneParamID>
+    <Name>Opt_PulseHV</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1169</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>45</TuneParamID>
+    <Name>Opt_Cell_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">125</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>46</TuneParamID>
+    <Name>Opt_Cell_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>47</TuneParamID>
+    <Name>Opt_Cell_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.9996</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>48</TuneParamID>
+    <Name>Opt_Cell_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">0.05</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>49</TuneParamID>
+    <Name>Opt_QF_AmuGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>50</TuneParamID>
+    <Name>Opt_QF_AmuOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">126</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>51</TuneParamID>
+    <Name>Opt_QF_AxisGain</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1.0001</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>52</TuneParamID>
+    <Name>Opt_QF_AxisOffset</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-0.06</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>53</TuneParamID>
+    <Name>Opt_Cell_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-15</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>54</TuneParamID>
+    <Name>IonGuideMode</Name>
+    <Value xsi:type="xs:int" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>55</TuneParamID>
+    <Name>SingleQuad_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-3</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>56</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-9.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>57</TuneParamID>
+    <Name>SingleQuad_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>58</TuneParamID>
+    <Name>MSMS_Opt_QF_QPBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">1</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>59</TuneParamID>
+    <Name>MSMS_Opt_QF_PrefilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-5.5</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>60</TuneParamID>
+    <Name>MSMS_Opt_QF_PostfilterBias</Name>
+    <Value xsi:type="xs:double" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-7</Value>
+  </TuneParameter>
+  <TuneParameter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <TuneParamID>61</TuneParamID>
+    <Name>ScanType_Tune</Name>
+    <Value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">SingleQuad</Value>
+  </TuneParameter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportMeterID>0</ReportMeterID>
+    <Name>Vacuum_IfBkPress</Name>
+    <Value>162.4759</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportMeterID>1</ReportMeterID>
+    <Name>Vacuum_AnalyzerPress</Name>
+    <Value>0.001386724</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportMeterID>2</ReportMeterID>
+    <Name>PlasmaRF_ReflectedPower</Name>
+    <Value>3.030974</Value>
+    <Unit>W</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportMeterID>3</ReportMeterID>
+    <Name>Isis_IstdValvePosition</Name>
+    <Value>1</Value>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>0</ReportSetID>
+    <ReportMeterID>4</ReportMeterID>
+    <Name>SC_TemperatureL</Name>
+    <Value>2.018066</Value>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportMeterID>0</ReportMeterID>
+    <Name>Vacuum_IfBkPress</Name>
+    <Value>161.2023</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportMeterID>1</ReportMeterID>
+    <Name>Vacuum_AnalyzerPress</Name>
+    <Value>0.001386294</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportMeterID>2</ReportMeterID>
+    <Name>PlasmaRF_ReflectedPower</Name>
+    <Value>3.147124</Value>
+    <Unit>W</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportMeterID>3</ReportMeterID>
+    <Name>Isis_IstdValvePosition</Name>
+    <Value>1</Value>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>1</ReportSetID>
+    <ReportMeterID>4</ReportMeterID>
+    <Name>SC_TemperatureL</Name>
+    <Value>2.018066</Value>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportMeterID>0</ReportMeterID>
+    <Name>Vacuum_IfBkPress</Name>
+    <Value>160.5308</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportMeterID>1</ReportMeterID>
+    <Name>Vacuum_AnalyzerPress</Name>
+    <Value>0.001384576</Value>
+    <Unit>Pa</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportMeterID>2</ReportMeterID>
+    <Name>PlasmaRF_ReflectedPower</Name>
+    <Value>3.141593</Value>
+    <Unit>W</Unit>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportMeterID>3</ReportMeterID>
+    <Name>Isis_IstdValvePosition</Name>
+    <Value>1</Value>
+  </Meter>
+  <Meter>
+    <TuneReportID>-1</TuneReportID>
+    <ReportSetID>2</ReportSetID>
+    <ReportMeterID>4</ReportMeterID>
+    <Name>SC_TemperatureL</Name>
+    <Value>1.933987</Value>
+  </Meter>
+</TuneReportDataSet>
